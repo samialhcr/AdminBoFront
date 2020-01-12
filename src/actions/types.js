@@ -1,0 +1,17 @@
+export const GET_ERRORS = "GET_ERRORS";
+export const GET_ABONNES = "GET_ABONNES";
+export const GET_ABONNEBYID = "GET_ABONNEBYID";
+export const GET_COMPTES = "GET_COMPTES";
+export const GET_ACOMPTEBYID = "GET_ACOMPTEBYID";
+export const GET_CONTRATS = "GET_CONTRATS";
+export const GET_CONTRATBYID = "GET_CONTRATBYID";
+export const GET_COFFRES = "GET_COFFRES";
+export const GET_OFFREBYID = "GET_OFFREBYID";
+
+export const GET_OPERATIONS = "GET_OPERATIONS";
+export const GET_OPERATIONBYID = "GET_OPERATIONBYID";
+
+export const GET_BOS = "GET_BOS";
+export const GET_BOBYID = "GET_BOBYID";
+export const GET_AGENCES = "GET_AGENCES";
+export const GET_AGENCEBYID = "GET_AGENCEBYID";
